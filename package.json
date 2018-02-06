@@ -1,0 +1,19 @@
+{
+  "name": "etherpanther-test-client",
+  "version": "0.9.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "bn": "^1.0.1",
+    "chai": "^4.1.2",
+    "mocha": "^5.0.0",
+    "truffle-hdwallet-provider": "git+https://github.com/miguelmota/truffle-hdwallet-provider.git",
+    "web3": "^1.0.0-beta.28"
+  }
+}
